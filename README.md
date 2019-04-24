@@ -1,1 +1,1 @@
-# Trifid Open Source
+# Trifid Open Source Initative
